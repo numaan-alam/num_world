@@ -1,0 +1,20 @@
+C:\Users\Google\Desktop\etms\etms\bin\etms.dll
+C:\Users\Google\Desktop\etms\etms\bin\etms.pdb
+C:\Users\Google\Desktop\etms\etms\obj\Debug\etms.dll
+C:\Users\Google\Desktop\etms\etms\obj\Debug\etms.pdb
+C:\Users\Google\Desktop\etms\etms\obj\Debug\etms.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\etms\etms\bin\etms.dll
+C:\Users\Acer\Desktop\etms\etms\bin\etms.pdb
+C:\Users\Acer\Desktop\etms\etms\obj\Debug\etms.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\etms\etms\obj\Debug\etms.dll
+C:\Users\Acer\Desktop\etms\etms\obj\Debug\etms.pdb
+E:\numaan backup\bca 6th semester\Final Project\etms\etms\bin\etms.dll
+E:\numaan backup\bca 6th semester\Final Project\etms\etms\bin\etms.pdb
+E:\numaan backup\bca 6th semester\Final Project\etms\etms\obj\Debug\etms.csprojResolveAssemblyReference.cache
+E:\numaan backup\bca 6th semester\Final Project\etms\etms\obj\Debug\etms.dll
+E:\numaan backup\bca 6th semester\Final Project\etms\etms\obj\Debug\etms.pdb
+C:\Users\Numaan\Desktop\etms\etms\bin\etms.dll
+C:\Users\Numaan\Desktop\etms\etms\bin\etms.pdb
+C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.dll
+C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.pdb
+C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.csprojResolveAssemblyReference.cache
