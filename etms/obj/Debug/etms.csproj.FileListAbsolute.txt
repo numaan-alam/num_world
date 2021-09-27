@@ -17,4 +17,3 @@ C:\Users\Numaan\Desktop\etms\etms\bin\etms.dll
 C:\Users\Numaan\Desktop\etms\etms\bin\etms.pdb
 C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.dll
 C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.pdb
-C:\Users\Numaan\Desktop\etms\etms\obj\Debug\etms.csprojResolveAssemblyReference.cache
